@@ -1,0 +1,5 @@
+streamlit==1.35.0
+numpy
+pandas
+requests
+protobuf==3.20.*
